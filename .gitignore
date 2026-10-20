@@ -1,0 +1,5 @@
+.DS_Store
+
+# Internal working documents must not enter this repository.
+LEGAL_REVIEW.md
+DONATION_CHECKLIST.md
